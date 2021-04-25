@@ -26,10 +26,10 @@ The first requirement is to create a series of scatter plots to showcase the fol
 * Wind Speed (mph) vs. Latitude
 
 ### Final Plots
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/lat_vs_max_temp.png)
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/lat_vs_humidity.png)
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/lat_vs_cloudiness.png)
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/lat_vs_wind.png)
+![](WeatherPy/images/lat_vs_max_temp.png)
+![](WeatherPy/images/lat_vs_humidity.png)
+![](WeatherPy/images/lat_vs_cloudiness.png)
+![](WeatherPy/images/lat_vs_wind.png)
 
 The second requirement is to run linear regression on each relationship. This time, separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
@@ -44,11 +44,11 @@ The second requirement is to run linear regression on each relationship. This ti
 
 ### Final Plots
 
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/northern_lat_vs_maxtemp_regress.png) ![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/southern_lat_vs_maxtemp_regress.png)
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/northern_lat_vs_humidity_regress.png) ![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/southern_lat_vs_humidity_regress.png)
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/lat_vs_humidity_regress_equator.png)
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/northern_lat_vs_cloudiness_regress.png) ![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/southern_lat_vs_cloudiness_regress.png)
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/northern_lat_vs_wind_regress.png) ![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/WeatherPy/images/southern_lat_vs_wind_regress.png)
+![](WeatherPy/images/northern_lat_vs_maxtemp_regress.png) ![](WeatherPy/images/southern_lat_vs_maxtemp_regress.png)
+![](WeatherPy/images/northern_lat_vs_humidity_regress.png) ![](WeatherPy/images/southern_lat_vs_humidity_regress.png)
+![](WeatherPy/images/lat_vs_humidity_regress_equator.png)
+![](WeatherPy/images/northern_lat_vs_cloudiness_regress.png) ![](WeatherPy/images/southern_lat_vs_cloudiness_regress.png)
+![](WeatherPy/images/northern_lat_vs_wind_regress.png) ![](WeatherPy/images/southern_lat_vs_wind_regress.png)
 
 ## Part II - VacationPy
 
@@ -66,9 +66,9 @@ To complete this part of the assignment, you will need to do the following:
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
 ### Final Plots
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/VacationPy/images/initial_heat_layer.png)
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/VacationPy/images/marker_layer.png)
-![](https://github.com/moriahtaylor1/python-api-challenge/tree/main/VacationPy/images/marker_info.png)
+![](VacationPy/images/initial_heat_layer.png)
+![](VacationPy/images/marker_layer.png)
+![](VacationPy/images/marker_info.png)
 
 
 
